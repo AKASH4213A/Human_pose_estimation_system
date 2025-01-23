@@ -13,6 +13,9 @@ A machine learning project to estimate human body poses by detecting key joints,
 - Python
 - COCO or custom datasets
 
+## Instalation 
+ Please check the requirements files for installation or you wanna use the test Model
+
 ## Future Work
 - Improve accuracy with advanced architectures like transformers.
 - Optimize for real-time performance on edge devices.
