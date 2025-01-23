@@ -9,7 +9,9 @@ A machine learning project to estimate human body poses by detecting key joints,
 - Built with modern deep learning techniques.
 
 ## Technologies Used
-- TensorFlow / PyTorch
+- Streamlit
+- openCV
+- Mediapipeline
 - Python
 - COCO or custom datasets
 
