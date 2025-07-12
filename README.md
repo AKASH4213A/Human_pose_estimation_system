@@ -17,6 +17,11 @@ A machine learning project to estimate human body poses by detecting key joints,
 
 ## Instalation 
  Please check the requirements files for installation or you wanna use the test Model
+opencv_python_headless==4.5.1.48
+streamlit==0.76.0
+numpy==1.18.5
+matplotlib==3.3.2
+Pillow==8.1.2
 
 ## Future Work
 - Improve accuracy with advanced architectures like transformers.
